@@ -60,7 +60,7 @@ sudo pip3 install automationhat
 on Raspbian:
 
 ```bash
-sudo apt-get install python-automationhat
+sudo apt-get install python-automation-hat_Encoder_20_21
 ```
 
 other environments:
